@@ -9,6 +9,6 @@ guipro.py
 <h1> Training dataset</h1>
 dataset.csv
 <br></br>
-<h1>Jupiter Notebooks</h1>
+<h1>Jupyter Notebooks</h1>
 coldchaingui.ipynb<br></br>
 ColdChain.ipynb
